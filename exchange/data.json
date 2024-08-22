@@ -10,9 +10,9 @@
         "date": "2024-08-22"
     },
     {
-        "title": "Linux.Forensics.EnvironmentVariables.v3",
+        "title": "Linux.Forensics.EnvironmentVariables",
         "author": "ibyf0r3ns1cs",
-        "description": "This artifact detects potential persistence mechanisms on Linux systems by analyzing environment variable files and login scripts.  \nAdversaries may modify these files to establish persistence by injecting commands that execute malicious scripts or binaries upon user login or shell initialization.  \nThis artifact focuses on identifying such modifications by scanning for environment variable alterations, network utilities, and scripting languages commonly used in attacks.  \nThe globs for file paths can be added using a comma-separated list, and the filters are regex patterns that can be modified as needed to tailor the artifact's detection capabilities.",
+        "description": "This artifact detects potential persistence mechanisms on Linux systems by analyzing environment variable files and login scripts.  \nAdversaries may modify these files to establish persistence by injecting commands that execute malicious scripts or binaries upon user login or shell initialization.  \nThis artifact focuses on identifying such modifications by scanning for environment variable alterations, network utilities, and scripting languages commonly used in attacks.  ",
         "link": "/exchange/artifacts/pages/linux.forensics.environmentvariables",
         "tags": [],
         "author_link": "https://github.com/ibyf0r3ns1cs",
