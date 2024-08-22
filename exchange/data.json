@@ -324,7 +324,7 @@
     {
         "title": "Windows.Veeam.RestorePoints.MetadataFiles",
         "author": "cybiosity-syn",
-        "description": "Parses the metadata found in Veeam backup chain metadata files (.vbm) to extract relevant fields for each Restore Point.",
+        "description": "Parses the metadata found in Veeam backup chain metadata files (`.vbm`) to extract relevant fields for each Restore Point.",
         "link": "/exchange/artifacts/pages/windows.veeam.restorepoints.metadatafiles",
         "tags": [],
         "author_link": "https://github.com/cybiosity-syn",
