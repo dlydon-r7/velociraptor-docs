@@ -1,5 +1,15 @@
 [
     {
+        "title": "Linux.ExtractKthread",
+        "author": "andy99998",
+        "description": "This artifact parses `/proc/[0-9]*/status` files and extracts the `ProcessName` and `Kthread` values. Helpful for identifying imposter processes.\n",
+        "link": "/exchange/artifacts/pages/linux.collection.kthread",
+        "tags": [],
+        "author_link": "https://github.com/andy99998",
+        "author_avatar": "https://avatars.githubusercontent.com/u/6075698?v=4",
+        "date": "2024-08-22"
+    },
+    {
         "title": "Windows.Veeam.RestorePoints.BackupFiles",
         "author": "cybiosity-syn",
         "description": "Parses the metadata found in Veeam full backup files (`.vbk`), Veeam incremental backup files (`.vib`) and Veeam reverse incremental backup files (`.vrb`) to extract relevant fields for each Restore Point.",
