@@ -1,5 +1,15 @@
 [
     {
+        "title": "Server.Hunt.Comparison",
+        "author": "DenKi42",
+        "description": "This artifact is used to compare other artifacts from two different hunts. The basic idea is that a baseline (Hunt 1) is created from selected artifacts before an attack. A second hunt (Hunt 2) can then be carried out after the attack using the same artifacts. Now, using this script, artifacts from both hunts can be compared. This allows legitimate activities to be filtered out and makes it easier to identify malicious activities in Hunt2.",
+        "link": "/exchange/artifacts/pages/server.hunt.comparison",
+        "tags": [],
+        "author_link": "https://github.com/DenKi42",
+        "author_avatar": "https://avatars.githubusercontent.com/u/174724495?v=4",
+        "date": "2024-08-28"
+    },
+    {
         "title": "Linux.ExtractKthread",
         "author": "andy99998",
         "description": "This artifact parses `/proc/[0-9]*/status` files and extracts the `ProcessName` and `Kthread` values. Helpful for identifying imposter processes.\n",
