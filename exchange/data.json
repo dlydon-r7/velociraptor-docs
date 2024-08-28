@@ -10,6 +10,16 @@
         "date": "2024-08-28"
     },
     {
+        "title": "Windows.Sysinternals.PSShutdown",
+        "author": "iboje",
+        "description": "PsShutdown is a command-line utility similar to the shutdown utility from the Windows 2000 Resource Kit, but with the ability to do much more. In addition to supporting the same options for shutting down or rebooting the local or a remote computer, PsShutdown can logoff the console user or lock the console (locking requires Windows 2000 or higher). PsShutdown requires no manual installation of client software.\n",
+        "link": "/exchange/artifacts/pages/windows.sysinternals.psshutdown",
+        "tags": [],
+        "author_link": "https://github.com/iboje",
+        "author_avatar": "https://avatars.githubusercontent.com/u/55198930?v=4",
+        "date": "2024-08-28"
+    },
+    {
         "title": "Linux.ExtractKthread",
         "author": "andy99998",
         "description": "This artifact parses `/proc/[0-9]*/status` files and extracts the `ProcessName` and `Kthread` values. Helpful for identifying imposter processes.\n",
